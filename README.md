@@ -1,3 +1,3 @@
-ファイルのURLは
-https://github.com/ice-Kouki/suguru.git
-ファイル名.png
+ファイルのURLは/br 
+https://github.com/ice-Kouki/suguru.git/br
+ファイル名.png/br
