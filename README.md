@@ -1,3 +1,6 @@
-ファイルのURLは</br>
-https://github.com/ice-Kouki/suguru.git</br>
-ファイル名.png</br>
+ファイルのURLは
+</br>
+https://ice-kouki.github.io/suguru/
+</br>
+ファイル名.png
+</br>
